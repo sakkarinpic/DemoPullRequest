@@ -1,0 +1,3 @@
+https://www.zerogameth.com/
+*.zerogameth.com/
+*.zerogameth.com
